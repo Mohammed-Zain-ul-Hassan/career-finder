@@ -1,4 +1,4 @@
-# Carrier Finder 🚀
+# Carrier Finder 
 
 **Your AI-Powered Career Copilot.**
 
@@ -30,7 +30,7 @@ Carrier Finder is an intelligent job search and interview preparation platform t
 -   **AI Model**: Google Gemini 2.5 Flash Lite
 -   **Search Engine**: [SerpAPI](https://serpapi.com/) (Google Search API)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 -   Node.js 18+
